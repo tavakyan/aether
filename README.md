@@ -15,3 +15,6 @@ Aether Protocol v0.1 integrates an incentive-compatible dynamic mechanism with a
 Based off of original paper published here: https://faculty.georgetown.edu/lagunofr/optimal-resource.pdf
 
 
+Ontology: https://docs.google.com/document/d/1_1wuc6wYVE7PB-5yxrU53DsjwM1m5mTRfriw4WGnh5k/edit?usp=sharing
+
+Users: https://docs.google.com/document/d/1tbF-PdB4fIxeFZQhlK5HC2E5EcSaAZGnXuaUfwz8tJc/edit?usp=sharing
