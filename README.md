@@ -1,4 +1,4 @@
-# Aether Protocol v0.1
+# zkExternalities
 
 ## Overview  
 Aether Protocol v0.1 integrates an incentive-compatible dynamic mechanism with a delta-based adjustment framework. It leverages Byzantine Fault-Tolerant consensus, cryptographic oracles, and zero-knowledge commitments to verify actions and automate obligations via staking and slashing. Precise Externality Function Specifications ensure accurate cross-border impact attribution. An RFC-driven governance model defers non-essential features, minimizing complexity.
